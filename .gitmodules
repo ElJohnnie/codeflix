@@ -1,0 +1,3 @@
+[submodule "codeflix-admin-catalog"]
+	path = codeflix-admin-catalog
+	url = https://github.com/ElJohnnie/codeflix-admin-catalog
