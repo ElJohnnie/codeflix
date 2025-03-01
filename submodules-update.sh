@@ -12,4 +12,4 @@ git add .
 
 git commit -m "$GIT_USER: Atualização por script dos submódulos"
 
-git push origin main
+git push origin master
